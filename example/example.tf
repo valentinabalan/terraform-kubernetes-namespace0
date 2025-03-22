@@ -1,5 +1,5 @@
 module ns-demo{
-    source = "./module-folder"
+    source = "../"
     name = "ns-demo"
     pod_quota = "12"
 }
